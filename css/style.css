@@ -454,6 +454,16 @@ body {
 
 /*АДАПТИВНОСТЬ*/
 
+@media (max-width:2560px) {
+	.newsx {
+	   display : block;
+	}
+	
+	.news_content {
+	   display :block;
+	}
+}
+
 
 @media (max-width:1200px) {
 	/*INTRO*/
